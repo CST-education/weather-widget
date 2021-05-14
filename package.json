@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paris-school/webpack_bundle.git"
+    "url": "git+https://github.com/CST-education/weather-widget"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/paris-school/webpack_bundle/issues"
-  },
-  "homepage": "https://github.com/paris-school/webpack_bundle#readme",
+  "homepage": "https://cst-education.github.io/weather-widget/",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
